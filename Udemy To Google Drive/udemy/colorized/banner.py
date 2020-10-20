@@ -9,5 +9,5 @@ def banner():
 %s%s \__,_/\__,_/\___/_/ /_/ /_/\__, /      \__,_/_/     
 %s%s                           /____/
 
-''' % (fc, sb,fc, sb,fc, sb, fm, sb, fy, sb, fy, sb, fy,sd, fg, sd, fy, sd, fg, sd, fy, sd, fg, sd)
+''' % (fc, sb,fc, sb,fc, sb, fm, sb, fy, sb, fy, sb)
     return banner
